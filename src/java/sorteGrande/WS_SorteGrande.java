@@ -17,7 +17,7 @@ import java.util.Arrays;
 public class WS_SorteGrande {
 
     /**
-     * This is a sample web service operation
+     * Amanda Malagutti
      */
     private boolean existeElemento(int v[], int elemento) {
         for (int i = 0; i < v.length; i++) {
